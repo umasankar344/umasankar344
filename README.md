@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Porimi Umasankar Prodhan
 - 👀 I’m interested in working in an IT company
-- 🌱 I’m currently learning mern fullstack and core java
+- 🌱 I’m currently learning java full-stack 
 - 💞️ I’m looking to collaborate on working with colligues
 - 📫 How to reach me uma787921@gmail.com
 - 😄 Pronouns: Mr

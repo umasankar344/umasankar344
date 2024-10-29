@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on working with colligues
 - 📫 How to reach me uma787921@gmail.com
 - 😄 Pronouns: Mr
-- ⚡ Fun fact: i like art
+- ⚡ Fun fact: i like coding
 
 <!---
 umasankar344/umasankar344 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
